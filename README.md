@@ -8,6 +8,7 @@ We've used the following video and audio for this demonstration:
 
 - Video: [Link](https://openinapp.co/5cwva)
 - Audio: [Link](https://openinapp.co/o9vuj)
+- Explanation: [Link](https://drive.google.com/file/d/1UtZmvIi_xkBEFL4CzGvyknxOrCN58VUI/view?usp=sharing)
 
 ## Output
 
